@@ -1,0 +1,6 @@
+train: C:\Users\muham\Downloads\Compressed\msib\datasets\train\images
+val: C:\Users\muham\Downloads\Compressed\msib\datasets\valid\images
+test: C:\Users\muham\Downloads\Compressed\msib\datasets\test\images
+
+nc: 2
+names: ['BUS', 'CAR']

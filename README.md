@@ -131,7 +131,7 @@ https://youtu.be/goYInexc3kw
 - image labeling using roboflow.
 - Only 2 class in custom trained model: 'BUS' and 'CAR'.
 - 'model' in 'model = YOLO(r"Training\runs\detect\train\weights\best.pt")' is using trained model.
-- Train your model using 'Training\train.ipynb'.
+- Train your own model using 'Training\train.ipynb'.
 - This project build in Visual Studio Code Windows 11.
 
 ## Contact

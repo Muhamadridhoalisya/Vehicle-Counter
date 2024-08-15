@@ -18,7 +18,7 @@ This project implements a vehicle counting system using custom-trained YOLOv8 ob
 
 - Python 3.11.9
 - OpenCV
-- ipykernel
+- Ipykernel
 - Numpy==1.26.4
 - Ultralytics YOLOv8n
 - torch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0
@@ -129,9 +129,9 @@ https://youtu.be/goYInexc3kw
 ## Acknowledgements
 
 - This project uses the custom-trained YOLOv8 model from Ultralytics.
-- image labeling using roboflow.
+- Image labeling using roboflow.
 - Only 2 class in custom trained model: 'BUS' and 'CAR'.
-- 'model' in 'model = YOLO(r"Training\runs\detect\train\weights\best.pt")' is using trained model.
+- 'model' in 'model = YOLO(r"Training\runs\detect\train\weights\best.pt")' is using my trained model.
 - Train your own model using 'Training\train.ipynb'.
 - This project build in Visual Studio Code Windows 11.
 

@@ -17,7 +17,8 @@ This project implements a vehicle counting system using custom-trained YOLOv8 ob
 ## Requirements
 
 - Python 3.11.9
-- OpenCV==4.10.0
+- OpenCV
+- ipykernel
 - Numpy==1.26.4
 - Ultralytics YOLOv8n
 - torch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0
@@ -69,7 +70,7 @@ This project implements a vehicle counting system using custom-trained YOLOv8 ob
    pip install numpy
    ```
    ```
-   pip install opencv-pytho
+   pip install opencv-python
    ```
    ```
    pip install ultralytics
